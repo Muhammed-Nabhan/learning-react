@@ -29,3 +29,8 @@ border: none;
 border-radius: 5px;
 cursor: pointer;
 }
+.signup-card  form button:hover{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: rgb(46, 173, 40);
+}
